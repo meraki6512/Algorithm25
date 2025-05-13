@@ -1,6 +1,6 @@
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
-        
+
         start = 0
         ans = []
 
@@ -20,3 +20,7 @@ class Solution:
 
         return ans
         
+        # i-1와 i를 비교하지 말고
+        # i와 i+1을 비교하면 
+        # for loop가 끝나고 한 번 더 비교할 필요가 없을 것 같음
+        # 추후 다시 풀어보기
