@@ -2,6 +2,7 @@
 |  |
 | ------- |
 | [1655-가운데를 말해요](https://www.acmicpc.net/problem/1655) |
+| [5430-AC](https://www.acmicpc.net/problem/5430) |
 | [8958-OX퀴즈](https://www.acmicpc.net/problem/8958) |
 | [9251-LCS](https://www.acmicpc.net/problem/9251) |
 | [9935-문자열 폭발](https://www.acmicpc.net/problem/9935) |
