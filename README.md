@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meraki6512/Algorithm25/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/meraki6512/Algorithm25/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meraki6512/Algorithm25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/meraki6512/Algorithm25/tree/master/0134-gas-station) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meraki6512/Algorithm25/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/meraki6512/Algorithm25/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/meraki6512/Algorithm25/tree/master/0383-ransom-note) |
 ## Counting
