@@ -1,12 +1,21 @@
 # BOJ problems
 |  |
 | ------- |
-| [1655-가운데를 말해요](https://www.acmicpc.net/problem/1655) |
-| [5430-AC](https://www.acmicpc.net/problem/5430) |
-| [8958-OX퀴즈](https://www.acmicpc.net/problem/8958) |
-| [9251-LCS](https://www.acmicpc.net/problem/9251) |
-| [9935-문자열 폭발](https://www.acmicpc.net/problem/9935) |
+| [1655-가운데를 말해요 (문제)](https://www.acmicpc.net/problem/1655) |
+| [5430-AC (문제)](https://www.acmicpc.net/problem/5430) |
+| [8958-OX퀴즈 (문제)](https://www.acmicpc.net/problem/8958) |
+| [9251-LCS](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS) |
+| [9935-문자열 폭발 (문제)](https://www.acmicpc.net/problem/9935) |
+| [12605-단어순서 뒤집기 (문제)](https://www.acmicpc.net/problem/12605) |
+| [17609-회문](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17609.%E2%80%85%ED%9A%8C%EB%AC%B8) |
 
+
+
+---
+---
+---
+
+</br>
 
 
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
