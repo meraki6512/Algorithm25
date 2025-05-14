@@ -10,12 +10,7 @@
 | [17609-회문](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17609.%E2%80%85%ED%9A%8C%EB%AC%B8) |
 
 
-
 ---
----
----
-
-</br>
 
 
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
