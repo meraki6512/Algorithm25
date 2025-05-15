@@ -2,6 +2,7 @@
 |  |
 | ------- |
 | [1655-가운데를 말해요 (문제)](https://www.acmicpc.net/problem/1655) |
+| [5052-전화번호 목록](https://www.acmicpc.net/problem/5052) |
 | [5430-AC (문제)](https://www.acmicpc.net/problem/5430) |
 | [8958-OX퀴즈 (문제)](https://www.acmicpc.net/problem/8958) |
 | [9251-LCS](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS) |
