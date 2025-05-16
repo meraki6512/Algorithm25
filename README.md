@@ -6,6 +6,7 @@
 | [5430-AC (문제)](https://www.acmicpc.net/problem/5430) |
 | [8958-OX퀴즈 (문제)](https://www.acmicpc.net/problem/8958) |
 | [9251-LCS](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS) |
+| [9252-LCS 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9252.%E2%80%85LCS%E2%80%852) |
 | [9935-문자열 폭발 (문제)](https://www.acmicpc.net/problem/9935) |
 | [12605-단어순서 뒤집기 (문제)](https://www.acmicpc.net/problem/12605) |
 | [17609-회문](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17609.%E2%80%85%ED%9A%8C%EB%AC%B8) |
