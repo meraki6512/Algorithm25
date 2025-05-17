@@ -4,18 +4,20 @@
 | [1655-가운데를 말해요 (문제)](https://www.acmicpc.net/problem/1655) |
 | [5052-전화번호 목록](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/5052.%E2%80%85%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%E2%80%85%EB%AA%A9%EB%A1%9D) |
 | [5430-AC (문제)](https://www.acmicpc.net/problem/5430) |
+| [7490-0 만들기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/7490.%E2%80%850%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | [8958-OX퀴즈 (문제)](https://www.acmicpc.net/problem/8958) |
 | [9251-LCS](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS) |
 | [9252-LCS 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9252.%E2%80%85LCS%E2%80%852) |
 | [9935-문자열 폭발 (문제)](https://www.acmicpc.net/problem/9935) |
 | [12605-단어순서 뒤집기 (문제)](https://www.acmicpc.net/problem/12605) |
+| [12904-A와 B](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/12904.%E2%80%85A%EC%99%80%E2%80%85B) |
+| [12010-A와 B 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/12919.%E2%80%85A%EC%99%80%E2%80%85B%E2%80%852) |
 | [17609-회문](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17609.%E2%80%85%ED%9A%8C%EB%AC%B8) |
 
+</br>
 
 ---
 
-
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
