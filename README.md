@@ -5,6 +5,14 @@
 | ------- |
 | [8958-OX퀴즈 (prblm link)](https://www.acmicpc.net/problem/8958) |
 | [12605-단어순서 뒤집기 (prblm link)](https://www.acmicpc.net/problem/12605) |
+## Silver V
+|  |
+| ------- |
+| [1789-수들의 합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1789.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9) |
+## Silver III
+|  |
+| ------- |
+| [4779-칸토어 집합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/4779.%E2%80%85%EC%B9%B8%ED%86%A0%EC%96%B4%E2%80%85%EC%A7%91%ED%95%A9) |
 ## Gold V
 |  |
 | ------- |
@@ -15,6 +23,7 @@
 | [9251-LCS](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS) |
 | [12904-A와 B](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/12904.%E2%80%85A%EC%99%80%E2%80%85B) |
 | [12010-A와 B 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/12919.%E2%80%85A%EC%99%80%E2%80%85B%E2%80%852) |
+| [13164-행복 유치원](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/13164.%E2%80%85%ED%96%89%EB%B3%B5%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90) |
 | [15686-치킨 배달](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/15686.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%B0%B0%EB%8B%AC) |
 | [17609-회문](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17609.%E2%80%85%ED%9A%8C%EB%AC%B8) |
 ## Gold IV
@@ -24,10 +33,16 @@
 | [5052-전화번호 목록](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/5052.%E2%80%85%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%E2%80%85%EB%AA%A9%EB%A1%9D) |
 | [9252-LCS 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9252.%E2%80%85LCS%E2%80%852) |
 | [9935-문자열 폭발 (prblm link)](https://www.acmicpc.net/problem/9935) |
+## Gold III
+|  |
+| ------- |
+| [2143-두 배열의 합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2143.%E2%80%85%EB%91%90%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9) |
 ## Gold II
 |  |
 | ------- |
+| [1202-보석 도둑](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1202.%E2%80%85%EB%B3%B4%EC%84%9D%E2%80%85%EB%8F%84%EB%91%91) |
 | [1655-가운데를 말해요 (prblm link)](https://www.acmicpc.net/problem/1655) |
+
 
 </br>
 

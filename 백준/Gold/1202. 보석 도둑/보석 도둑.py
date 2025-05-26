@@ -58,7 +58,7 @@ print(ans)
 
 # 두 번째 가방 c = 10
 # 2 < 무게 ≤ 10인 남은 보석을 push: heap = [150, 65, 80]
-# heappop: 65
+# heappop: 150
 
 
 
