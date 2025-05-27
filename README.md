@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [1074-Z](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1074.%E2%80%85Z) |
+| [1351-무한 수열](https://github.com/meraki6512/Algorithm25/tree/dc6144f944709b2f0ac3ec788a9ff1b98f1713a5/%EB%B0%B1%EC%A4%80/Gold/1351.%E2%80%85%EB%AC%B4%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4) |
 | [1931-회의실 배정](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95) |
 | [5430-AC (prblm link)](https://www.acmicpc.net/problem/5430) |
 | [7490-0 만들기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/7490.%E2%80%850%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
@@ -41,7 +42,9 @@
 |  |
 | ------- |
 | [1202-보석 도둑](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1202.%E2%80%85%EB%B3%B4%EC%84%9D%E2%80%85%EB%8F%84%EB%91%91) |
+| [1525-퍼즐](https://github.com/meraki6512/Algorithm25/tree/44fce4daecc806f52001d4dadc803cd3461583aa/%EB%B0%B1%EC%A4%80/Gold/1525.%E2%80%85%ED%8D%BC%EC%A6%90) |
 | [1655-가운데를 말해요 (prblm link)](https://www.acmicpc.net/problem/1655) |
+| [2437-저울](https://github.com/meraki6512/Algorithm25/tree/b0b8fa3c0fd7617e721ecdb1d31d6fc6acc1feb0/%EB%B0%B1%EC%A4%80/Gold/2437.%E2%80%85%EC%A0%80%EC%9A%B8) |
 
 
 </br>
