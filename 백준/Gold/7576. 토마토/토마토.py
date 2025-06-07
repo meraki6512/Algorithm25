@@ -38,7 +38,7 @@ dx = [1, -1, 0, 0]
 dy = [0, 0, 1, -1]
 
 # 탐색할 토마토 리스트가 존재하면서 익힐 수 있는 토마토의 총 개수와 현재 익힌 토마토의 개수가 다를 동안 반복
-while queue and target != cnt:      # 4! * N * M ?
+while queue and target != cnt:      # 4 * N * M 
 
     que, lv = queue.pop()
     day = lv
