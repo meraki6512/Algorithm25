@@ -64,6 +64,7 @@ while que[0] or que[1]:
         else:                           # 부품 쪼개지 않았으면
             q.popleft()                 # 꺼냄
 
+
     # 트럭 이동
     nq = que[cur_pos^1]
 
