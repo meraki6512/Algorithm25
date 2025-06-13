@@ -32,6 +32,8 @@
 |  |
 | ------- |
 | [11053-가장 긴 증가하는 부분 수열](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/11053.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4) |
+| [14713-앵무새](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/14713.%E2%80%85%EC%95%B5%EB%AC%B4%EC%83%88) |
+| [28066-타노스는 요세푸스가 밉다](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/28066.%E2%80%85%ED%83%80%EB%85%B8%EC%8A%A4%EB%8A%94%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EA%B0%80%E2%80%85%EB%B0%89%EB%8B%A4) |
 ## Silver I
 |  |
 | ------- |
