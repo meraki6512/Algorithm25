@@ -60,6 +60,7 @@
 | [13164-행복 유치원](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/13164.%E2%80%85%ED%96%89%EB%B3%B5%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90) |
 | [15686-치킨 배달](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/15686.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%B0%B0%EB%8B%AC) |
 | [17609-회문](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17609.%E2%80%85%ED%9A%8C%EB%AC%B8) |
+| [22234-가희와 은행](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/22234.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%80%ED%96%89) |
 ## Gold IV
 |  |
 | ------- |
