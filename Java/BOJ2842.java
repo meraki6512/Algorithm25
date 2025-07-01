@@ -1,4 +1,4 @@
-package Algorithm.Algorithm25;
+package Algorithm.Algorithm25.Java;
 
 /*
 2025-06-23-AlgorithmStudy

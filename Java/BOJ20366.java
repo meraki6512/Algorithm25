@@ -1,7 +1,6 @@
-package Algorithm.Algorithm25;
+package Algorithm.Algorithm25.Java;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 

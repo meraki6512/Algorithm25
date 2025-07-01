@@ -1,4 +1,4 @@
-package Algorithm.Algorithm25;
+package Algorithm.Algorithm25.Java;
 
 import java.util.HashMap;
 import java.util.Scanner;

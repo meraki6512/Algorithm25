@@ -1,4 +1,4 @@
-package Algorithm.Algorithm25;
+package Algorithm.Algorithm25.Java;
 
 /*
 https://www.acmicpc.net/problem/7662

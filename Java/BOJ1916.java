@@ -1,4 +1,4 @@
-package Algorithm.Algorithm25;
+package Algorithm.Algorithm25.Java;
 
 // JAVA로 다시 풀기
 
