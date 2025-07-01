@@ -15,10 +15,10 @@ import java.util.StringTokenizer;
 
 public class Kruskal {
 
-    static int N, M;
-    static int[] parent;
-    static PriorityQueue<Edge> edges;
-    static HashSet<Integer> set;
+    private static int N, M;
+    private static int[] parent;
+    private static PriorityQueue<Edge> edges;
+    private static HashSet<Integer> set;
 
     static class Edge implements Comparable<Edge>{
         int s, e, c;
