@@ -141,8 +141,13 @@
 ## Platinum V
 |  |
 | ------- |
+| [1539-이진 검색 트리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/1539.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EA%B2%80%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC) |
+| [2957-이진 탐색 트리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/2957.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC) |
 | [6549-히스토그램에서 가장 큰 직사각형](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/6549.%E2%80%85%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8%EC%97%90%EC%84%9C%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95) |
-
+## Platinum III
+|  |
+| ------- |
+| [30466-우정은 BFS처럼, 사랑은 DFS처럼](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/30466.%E2%80%85%EC%9A%B0%EC%A0%95%EC%9D%80%E2%80%85BFS%EC%B2%98%EB%9F%BC%EF%BC%8C%E2%80%85%EC%82%AC%EB%9E%91%EC%9D%80%E2%80%85DFS%EC%B2%98%EB%9F%BC) |
 </br>
 
 ---
