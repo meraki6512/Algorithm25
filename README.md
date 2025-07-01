@@ -77,6 +77,7 @@
 ## Gold IV
 |  |
 | ------- |
+| [1197-최소 스패닝 트리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1197.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC) |
 | [1253-좋다 (prblm link)](https://www.acmicpc.net/problem/1253) |
 | [1647-도시 분할 계획](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1647.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EB%B6%84%ED%95%A0%E2%80%85%EA%B3%84%ED%9A%8D) |
 | [1707-이분 그래프](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1707.%E2%80%85%EC%9D%B4%EB%B6%84%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84) |
@@ -109,6 +110,7 @@
 | [1937-욕심쟁이 판다 (prblm link)](https://www.acmicpc.net/problem/1937) |
 | [2143-두 배열의 합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2143.%E2%80%85%EB%91%90%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9) |
 | [2473-세 용액](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2473.%E2%80%85%EC%84%B8%E2%80%85%EC%9A%A9%EC%95%A1) |
+| [4386-별자리 만들기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/4386.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | [9466-텀 프로젝트](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9466.%E2%80%85%ED%85%80%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) |
 | [16964-DFS 스페셜 저지](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/16964.%E2%80%85DFS%E2%80%85%EC%8A%A4%ED%8E%98%EC%85%9C%E2%80%85%EC%A0%80%EC%A7%80) |
 | [17619-개구리 점프 (prblm link)](https://www.acmicpc.net/problem/17619) |
