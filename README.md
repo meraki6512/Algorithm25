@@ -18,20 +18,24 @@
 ## Silver IV
 |  |
 | ------- |
+| [1269-대칭 차집합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1269.%E2%80%85%EB%8C%80%EC%B9%AD%E2%80%85%EC%B0%A8%EC%A7%91%ED%95%A9) |
 | [1764-듣보잡](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1764.%E2%80%85%EB%93%A3%EB%B3%B4%EC%9E%A1) |
 | [1920-수 찾기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1920.%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0) |
 | [2003-수들의 합 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/2003.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%852) |
 | [11866-요세푸스 0](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/11866.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%850) |
+| [14425-문자열 집합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/14425.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A7%91%ED%95%A9) |
 ## Silver III
 |  |
 | ------- |
 | [1966-프린터 큐](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1966.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0%E2%80%85%ED%81%90) |
 | [2579-계단 오르기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0) |
+| [3273-두 수의 합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/3273.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9) |
 | [4779-칸토어 집합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/4779.%E2%80%85%EC%B9%B8%ED%86%A0%EC%96%B4%E2%80%85%EC%A7%91%ED%95%A9) |
 ## Silver II
 |  |
 | ------- |
 | [11053-가장 긴 증가하는 부분 수열](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/11053.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4) |
+| [11478-서로 다른 부분 문자열의 개수](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/11478.%E2%80%85%EC%84%9C%EB%A1%9C%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) |
 | [14713-앵무새](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/14713.%E2%80%85%EC%95%B5%EB%AC%B4%EC%83%88) |
 | [28066-타노스는 요세푸스가 밉다](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/28066.%E2%80%85%ED%83%80%EB%85%B8%EC%8A%A4%EB%8A%94%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EA%B0%80%E2%80%85%EB%B0%89%EB%8B%A4) |
 ## Silver I
@@ -40,7 +44,9 @@
 | [1149-RGB거리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1149.%E2%80%85RGB%EA%B1%B0%EB%A6%AC) |
 | [1309-동물원](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1309.%E2%80%85%EB%8F%99%EB%AC%BC%EC%9B%90) |
 | [1932-정수 삼각형](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1932.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95) |
+| [2178-미로 탐색](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/2178.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89) |
 | [13335-트럭](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/13335.%E2%80%85%ED%8A%B8%EB%9F%AD) |
+| [23350-K 물류창고](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0) |
 ## Gold V
 |  |
 | ------- |
