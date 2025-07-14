@@ -136,10 +136,11 @@
 | [12738-가장 긴 증가하는 부분 수열 3](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/12738.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%E2%80%853) |
 | [21944-문제 추천 시스템 Version 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/21944.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%852) |
 ## Gold I
-|  |
-| ------- |
-| [1311-할 일 정하기1 (prblm link)](https://www.acmicpc.net/problem/1311) |
+|                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [1311-할 일 정하기1 (prblm link)](https://www.acmicpc.net/problem/1311)                                                                                      |
 | [28707-배열 정렬](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/28707.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%A0%95%EB%A0%AC) |
+| [17472-다리 만들기 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17472.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852)                                                                                                                                              |
 ## Platinum V
 |  |
 | ------- |
