@@ -1,9 +1,5 @@
 # BOJ problems
 - [해결한 문제 모아보기 (Solved prblms)](https://solved.ac/profile/zoe1012/solved)
-## Bronze V
-|              |
-|--------------|
-| [1000-A+B](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB) |
 ## Bronze II
 |  |
 | ------- |
@@ -14,12 +10,11 @@
 | ------- |
 | [24389-2의 보수](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Bronze/24389.%E2%80%852%EC%9D%98%E2%80%85%EB%B3%B4%EC%88%98) |
 ## Silver V
-|               |
-|---------------|
-| [1094-막대기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1094.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0)                     |
+|  |
+| ------- |
+| [1094-막대기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1094.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0) |
 | [1789-수들의 합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1789.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9) |
-| [9655-돌 게임](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/9655.%E2%80%85%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84) |
-| [11723-집합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/11723.%E2%80%85%EC%A7%91%ED%95%A9)                             |
+| [11723-집합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/11723.%E2%80%85%EC%A7%91%ED%95%A9) |
 ## Silver IV
 |  |
 | ------- |
@@ -29,55 +24,39 @@
 | [2003-수들의 합 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/2003.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%852) |
 | [2839-설탕 배달](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/2839.%E2%80%85%EC%84%A4%ED%83%95%E2%80%85%EB%B0%B0%EB%8B%AC) |
 | [10845-큐](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/10845.%E2%80%85%ED%81%90) |
-| [10994- 별 찍기 - 19](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/10994.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%8519) |
 | [11866-요세푸스 0](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/11866.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%850) |
 | [14425-문자열 집합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/14425.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A7%91%ED%95%A9) |
 ## Silver III
-|                 |
-|-----------------|
+|  |
+| ------- |
 | [1929-소수 구하기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1929.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) |
 | [1966-프린터 큐](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1966.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0%E2%80%85%ED%81%90) |
 | [2579-계단 오르기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0) |
 | [3273-두 수의 합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/3273.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9) |
 | [4779-칸토어 집합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/4779.%E2%80%85%EC%B9%B8%ED%86%A0%EC%96%B4%E2%80%85%EC%A7%91%ED%95%A9) |
-| [9461-파도반 수열](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/9461.%E2%80%85%ED%8C%8C%EB%8F%84%EB%B0%98%E2%80%85%EC%88%98%EC%97%B4) |
 | [11478-서로 다른 부분 문자열의 개수](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/11478.%E2%80%85%EC%84%9C%EB%A1%9C%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) |
 | [14501-퇴사](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/14501.%E2%80%85%ED%87%B4%EC%82%AC) |
 ## Silver II
-|                                                                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [1138-한 줄로 서기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1138.%E2%80%85%ED%95%9C%E2%80%85%EC%A4%84%EB%A1%9C%E2%80%85%EC%84%9C%EA%B8%B0) |
-| [1182-부분수열의 합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1182.%E2%80%85%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9)                                                                                                                                                            |
-| [1260-DFS와 BFS](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS)                                       |
+|  |
+| ------- |
 | [1912-연속합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1912.%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9) |
-| [1965-상자넣기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1965.%E2%80%85%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0)                               |
 | [2512-예산 (prblm link)](https://www.acmicpc.net/problem/2512) |
-| [2630-색종이 만들기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/2630.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
-| [6603-로또](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/6603.%E2%80%85%EB%A1%9C%EB%98%90)                                                   |
 | [9184-신나는 함수 실행](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/9184.%E2%80%85%EC%8B%A0%EB%82%98%EB%8A%94%E2%80%85%ED%95%A8%EC%88%98%E2%80%85%EC%8B%A4%ED%96%89) |
 | [11053-가장 긴 증가하는 부분 수열](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/11053.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4) |
-| [11725-트리의 부모찾기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/11725.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%AA%A8%E2%80%85%EC%B0%BE%EA%B8%B0) |
 | [14713-앵무새](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/14713.%E2%80%85%EC%95%B5%EB%AC%B4%EC%83%88) |
-| [26090-완전한 수열](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/26090.%E2%80%85%EC%99%84%EC%A0%84%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4)         |
 | [28066-타노스는 요세푸스가 밉다](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/28066.%E2%80%85%ED%83%80%EB%85%B8%EC%8A%A4%EB%8A%94%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EA%B0%80%E2%80%85%EB%B0%89%EB%8B%A4) |
 ## Silver I
-|                                                                                                                                                                                                 |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  |
+| ------- |
 | [1149-RGB거리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1149.%E2%80%85RGB%EA%B1%B0%EB%A6%AC) |
 | [1309-동물원](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1309.%E2%80%85%EB%8F%99%EB%AC%BC%EC%9B%90) |
 | [1932-정수 삼각형](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1932.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95) |
-| [2168-타일 위의 대각선](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/2168.%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EB%8C%80%EA%B0%81%EC%84%A0) |
 | [2178-미로 탐색](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/2178.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89) |
-|[2529-부등호](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/2529.%E2%80%85%EB%B6%80%EB%93%B1%ED%98%B8)|
 | [13335-트럭](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/13335.%E2%80%85%ED%8A%B8%EB%9F%AD) |
-| [14888-연산자 끼워넣기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/14888.%E2%80%85%EC%97%B0%EC%82%B0%EC%9E%90%E2%80%85%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)         |
-| [14889-스타트와 링크](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/14889.%E2%80%85%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%E2%80%85%EB%A7%81%ED%81%AC)                   |
-| [16198-에너지 모으기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/16198.%E2%80%85%EC%97%90%EB%84%88%EC%A7%80%E2%80%85%EB%AA%A8%EC%9C%BC%EA%B8%B0) |
 | [23350-K 물류창고](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0) |
 ## Gold V
-|                 |
-|-----------------|
-| [1068-트리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC) |
+|                                                                                                                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [1074-Z](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1074.%E2%80%85Z)                                                                                                               |
 | [1351-무한 수열](https://github.com/meraki6512/Algorithm25/tree/dc6144f944709b2f0ac3ec788a9ff1b98f1713a5/%EB%B0%B1%EC%A4%80/Gold/1351.%E2%80%85%EB%AC%B4%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4)                           |
 | [1484-다이어트](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1484.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)                                                                         |
@@ -90,7 +69,6 @@
 | [2504-괄호의 값](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2504.%E2%80%85%EA%B4%84%ED%98%B8%EC%9D%98%E2%80%85%EA%B0%92)                                                               |
 | [2565-전깃줄](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2565.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84) |
 | [5430-AC (prblm link)](https://www.acmicpc.net/problem/5430)                                                                                                                                                        |
-| [5904-Moo 게임](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/5904.%E2%80%85Moo%E2%80%85%EA%B2%8C%EC%9E%84) |
 | [7490-0 만들기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/7490.%E2%80%850%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)                                                                       |
 | [7576-토마토](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/7576.%E2%80%85%ED%86%A0%EB%A7%88%ED%86%A0)                                                                                   |
 | [9251-LCS](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS)                                                                                                           |
@@ -105,8 +83,8 @@
 | [22234-가희와 은행](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/22234.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%80%ED%96%89)                                                   |
 | [23284-모든 스택 수열 (prblm link)](https://www.acmicpc.net/problem/23284)                                                                                                                                                |
 ## Gold IV
-|                                                                                                                                                         |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  |
+| ------- |
 | [1197-최소 스패닝 트리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1197.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC) |
 | [1253-좋다 (prblm link)](https://www.acmicpc.net/problem/1253) |
 | [1647-도시 분할 계획](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1647.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EB%B6%84%ED%95%A0%E2%80%85%EA%B3%84%ED%9A%8D) |
@@ -115,8 +93,6 @@
 | [1806-부분합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1806.%E2%80%85%EB%B6%80%EB%B6%84%ED%95%A9) |
 | [1863-스카이라인 쉬운거](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1863.%E2%80%85%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%E2%80%85%EC%89%AC%EC%9A%B4%EA%B1%B0) |
 | [1922-네트워크 연결 (prblm link)](https://www.acmicpc.net/problem/1922) |
-| [1958-LCS 3](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1958.%E2%80%85LCS%E2%80%853)                                   |
-| [1987-알파벳](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1987.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3)                       |
 | [2015-수들의 합 4](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2015.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%854) |
 | [2293-동전 1](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851) |
 | [2458-키 순서](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2458.%E2%80%85%ED%82%A4%E2%80%85%EC%88%9C%EC%84%9C) |
@@ -128,10 +104,8 @@
 | [9935-문자열 폭발 (prblm link)](https://www.acmicpc.net/problem/9935) |
 | [11657-타임머신](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/11657.%E2%80%85%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0) |
 | [13144-List of Unique Numbers](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/13144.%E2%80%85List%E2%80%85of%E2%80%85Unique%E2%80%85Numbers) |
-| [14500-테트로미노](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/14500.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8) |
 | [14502-연구소](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/14502.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C) |
 | [15961-회전 초밥](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/15961.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EC%B4%88%EB%B0%A5) |
-| [16562-친구비](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/16562.%E2%80%85%EC%B9%9C%EA%B5%AC%EB%B9%84)                                                                                                                                           |
 | [17255-N으로 만들기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17255.%E2%80%85N%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | [17298-오큰수](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17298.%E2%80%85%EC%98%A4%ED%81%B0%EC%88%98) |
 | [18430-무기 공학](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/18430.%E2%80%85%EB%AC%B4%EA%B8%B0%E2%80%85%EA%B3%B5%ED%95%99) |
@@ -139,8 +113,8 @@
 | [32405-배틀 로얄](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/32405.%E2%80%85%EB%B0%B0%ED%8B%80%E2%80%85%EB%A1%9C%EC%96%84) |
 | [32632-gcd와 최단 경로](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/32632.%E2%80%85gcd%EC%99%80%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C) |
 ## Gold III
-|                     |
-|---------------------|
+|  |
+| ------- |
 | [1005-ACM Craft](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft) |
 | [1520-내리막 길](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1520.%E2%80%85%EB%82%B4%EB%A6%AC%EB%A7%89%E2%80%85%EA%B8%B8) |
 | [1644-소수의 연속합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1644.%E2%80%85%EC%86%8C%EC%88%98%EC%9D%98%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9) |
@@ -148,7 +122,6 @@
 | [1937-욕심쟁이 판다 (prblm link)](https://www.acmicpc.net/problem/1937) |
 | [2109-순회강연](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2109.%E2%80%85%EC%88%9C%ED%9A%8C%EA%B0%95%EC%97%B0) |
 | [2143-두 배열의 합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2143.%E2%80%85%EB%91%90%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9) |
-| [2206-벽 부수고 이동하기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2206.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0) |
 | [2473-세 용액](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2473.%E2%80%85%EC%84%B8%E2%80%85%EC%9A%A9%EC%95%A1) |
 | [4386-별자리 만들기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/4386.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | [9466-텀 프로젝트](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9466.%E2%80%85%ED%85%80%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) |
@@ -160,10 +133,8 @@
 | [25604-비행기 전시](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/25604.%E2%80%85%EB%B9%84%ED%96%89%EA%B8%B0%E2%80%85%EC%A0%84%EC%8B%9C) |
 | [28099-이상한 배열](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/28099.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%B0%B0%EC%97%B4) |
 ## Gold II
-|                                                                                                                         |
-|-------------------------------------------------------------------------------------------------------------------------|
-| [1039.교환](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1039.%E2%80%85%EA%B5%90%ED%99%98) |
-| [1167-트리의 지름](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1167.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EC%A7%80%EB%A6%84) |
+|  |
+| ------- |
 | [1202-보석 도둑](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1202.%E2%80%85%EB%B3%B4%EC%84%9D%E2%80%85%EB%8F%84%EB%91%91) |
 | [1525-퍼즐](https://github.com/meraki6512/Algorithm25/tree/44fce4daecc806f52001d4dadc803cd3461583aa/%EB%B0%B1%EC%A4%80/Gold/1525.%E2%80%85%ED%8D%BC%EC%A6%90) |
 | [1655-가운데를 말해요 (prblm link)](https://www.acmicpc.net/problem/1655) |
@@ -181,19 +152,17 @@
 | [12738-가장 긴 증가하는 부분 수열 3](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/12738.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%E2%80%853) |
 | [21944-문제 추천 시스템 Version 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/21944.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%852) |
 ## Gold I
-|                                                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [1311-할 일 정하기1 (prblm link)](https://www.acmicpc.net/problem/1311)                                                                                      |
 | [2014-소수의 곱](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2014.%E2%80%85%EC%86%8C%EC%88%98%EC%9D%98%E2%80%85%EA%B3%B1) |
-| [11689-GCD(n, k) = 1](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/11689.%E2%80%85GCD%EF%BC%88n%EF%BC%8C%E2%80%85k%EF%BC%89%E2%80%85%EF%BC%9D%E2%80%851) |
-| [17472-다리 만들기 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17472.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852)                                                                                                                                              |
 | [28707-배열 정렬](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/28707.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%A0%95%EB%A0%AC) |
+| [17472-다리 만들기 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17472.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852)                                                                                                                                              |
 ## Platinum V
-|                                                                                                                                                                                                                                                                                   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [1539-이진 검색 트리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/1539.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EA%B2%80%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC)                                                                                           |
-| [2957-이진 탐색 트리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/2957.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC)                                                                                           |
-| [3197-백조의 호수](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/3197.%E2%80%85%EB%B0%B1%EC%A1%B0%EC%9D%98%E2%80%85%ED%98%B8%EC%88%98)                                                                                                                                                                                                                                                                   |
+|  |
+| ------- |
+| [1539-이진 검색 트리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/1539.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EA%B2%80%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC) |
+| [2957-이진 탐색 트리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/2957.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC) |
 | [6549-히스토그램에서 가장 큰 직사각형](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/6549.%E2%80%85%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8%EC%97%90%EC%84%9C%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95) |
 ## Platinum III
 |  |
