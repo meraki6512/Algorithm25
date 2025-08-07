@@ -81,6 +81,7 @@
 |-----------------|
 | [1068-트리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC) |
 | [1074-Z](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1074.%E2%80%85Z)                                                                                                               |
+| [1240-노드사이의 거리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1240.%E2%80%85%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%E2%80%85%EA%B1%B0%EB%A6%AC) |
 | [1351-무한 수열](https://github.com/meraki6512/Algorithm25/tree/dc6144f944709b2f0ac3ec788a9ff1b98f1713a5/%EB%B0%B1%EC%A4%80/Gold/1351.%E2%80%85%EB%AC%B4%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4)                           |
 | [1484-다이어트](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1484.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)                                                                         |
 | [1916-최소비용 구하기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1916.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)                                 |
@@ -212,7 +213,7 @@
 ## Lv2
 |  |
 | ------- |
-| [17686-[3차] 파일명 정렬](https://github.com/meraki6512/Algorithm25/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/17686.%E2%80%85%EF%BC%BB3%EC%B0%A8%EF%BC%BD%E2%80%85%ED%8C%8C%EC%9D%BC%EB%AA%85%E2%80%85%EC%A0%95%EB%A0%AC) |
+| [17686-(3차) 파일명 정렬](https://github.com/meraki6512/Algorithm25/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/17686.%E2%80%85%EF%BC%BB3%EC%B0%A8%EF%BC%BD%E2%80%85%ED%8C%8C%EC%9D%BC%EB%AA%85%E2%80%85%EC%A0%95%EB%A0%AC) |
 | [42747-H-Index](https://github.com/meraki6512/Algorithm25/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/42747.%E2%80%85H%EF%BC%8DIndex) |
 ## Lv3
 |  |
