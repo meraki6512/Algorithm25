@@ -86,7 +86,7 @@
 | [1484-다이어트](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1484.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)                                                                         |
 | [1916-최소비용 구하기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1916.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)                                 |
 | [1931-회의실 배정](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95)                                                     |
-| [2225-합분해](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2225.%E2%80%85%ED%95%A9%EB%B6%84%ED%95%B4)                                                                                                                                                                                                        |
+| [2225-합분해](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2225.%E2%80%85%ED%95%A9%EB%B6%84%ED%95%B4) |
 | [2294-동전 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2294.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%852)                                                                                 |
 | [2470-두 용액 (prblm link)](https://www.acmicpc.net/problem/2470)                                                                                                                                                      |
 | [2493-탑](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2493.%E2%80%85%ED%83%91)                                                                                                       |
@@ -103,6 +103,7 @@
 | [12010-A와 B 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/12919.%E2%80%85A%EC%99%80%E2%80%85B%E2%80%852)                                                                           |
 | [13164-행복 유치원](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/13164.%E2%80%85%ED%96%89%EB%B3%B5%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90)                                                   |
 | [13549-숨바꼭질 3](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/13549.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%853)                                                           |
+| [15681-트리와 쿼리](https://github.com/meraki6512/Algorithm25/tree/8cd961c83a6454da8d0f7415e0f2454128ba61c0/%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC) |
 | [15686-치킨 배달](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/15686.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%B0%B0%EB%8B%AC)                                                             |
 | [17609-회문](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17609.%E2%80%85%ED%9A%8C%EB%AC%B8)                                                                                           |
 | [22234-가희와 은행](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/22234.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%80%ED%96%89)                                                   |
