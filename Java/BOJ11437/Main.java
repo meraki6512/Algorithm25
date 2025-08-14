@@ -17,6 +17,7 @@ public class Main {
 
     private static int N;
     private static List<Integer>[] tree;
+    private static int[] parent, depth;
 
     public static void main(String[] args) throws IOException {
 
@@ -24,6 +25,8 @@ public class Main {
         N = Integer.parseInt(br.readLine());
         StringTokenizer st;
         tree = new List[N+1];
+        parent = new int[N+1];
+        depth = new int[N+1];
         for (int i=0; i<N+1; i++) tree[i] = new ArrayList<>();
         for (int i=0; i<N-1; i++) {
             st = new StringTokenizer(br.readLine());
@@ -32,6 +35,9 @@ public class Main {
             tree[v].add(u);
             tree[u].add(v);
         }
+
+        parent[1] = -1;
+        getParentAndDepth(1, 0);
 
         int M = Integer.parseInt(br.readLine());
         StringBuilder sb = new StringBuilder();
@@ -45,29 +51,29 @@ public class Main {
 
     }
 
-    private static Integer getLCA(int v, int u){
-        boolean[][] visited = new boolean[2][N+1];
-        visited[0][v] = true;
-        visited[1][u] = true;
-        Queue<int[]> q = new LinkedList<>();
-        q.add(new int[]{0, v});
-        q.add(new int[]{1, u});
-
-        while (!q.isEmpty()){
-            int[] cur = q.poll();
-            int l = cur[0];
-            int i = cur[1];
-            if (visited[l^1][i]) return i;
-
-            for (int ni : tree[i]){
-                if (!visited[l][ni]){
-                    visited[l][ni] = true;
-                    q.add(new int[]{l, ni});
-                }
+    private static void getParentAndDepth(int i, int d){
+        for (int n : tree[i]){
+            if (parent[n] == 0){
+                parent[n] = i;
+                depth[n] = d + 1;
+                getParentAndDepth(n, depth[n]);
             }
         }
+    }
 
-        return null;
+    private static int getLCA(int v, int u){
+
+        // 같은 깊이로 맞춰준 후
+        while (depth[v] > depth[u]) v = parent[v];
+        while (depth[v] < depth[u]) u = parent[u];
+
+        // 탐색 시작
+        while (v != u){
+            v = parent[v];
+            u = parent[u];
+        }
+
+        return v;
     }
 }
 
