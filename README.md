@@ -91,6 +91,7 @@
 | [1240-노드사이의 거리](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1240.%E2%80%85%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%E2%80%85%EA%B1%B0%EB%A6%AC) |
 | [1351-무한 수열](https://github.com/meraki6512/Algorithm25/tree/dc6144f944709b2f0ac3ec788a9ff1b98f1713a5/%EB%B0%B1%EC%A4%80/Gold/1351.%E2%80%85%EB%AC%B4%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4)                           |
 | [1484-다이어트](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1484.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)                                                                         |
+| [1722-순열의 순서](https://github.com/meraki6512/Algorithm25/tree/ecfb987e9a969a669fb154b03ff4f8acbad06512/%EB%B0%B1%EC%A4%80/Gold/1722.%E2%80%85%EC%88%9C%EC%97%B4%EC%9D%98%E2%80%85%EC%88%9C%EC%84%9C) |
 | [1916-최소비용 구하기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1916.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)                                 |
 | [1931-회의실 배정](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95)                                                     |
 | [2225-합분해](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2225.%E2%80%85%ED%95%A9%EB%B6%84%ED%95%B4) |
