@@ -161,6 +161,7 @@
 |                     |
 |---------------------|
 | [1005-ACM Craft](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft) |
+| [1238-파티](https://github.com/meraki6512/Algorithm25/tree/462e7ae53713f0edfec710c59a07538467e6a1cd/%EB%B0%B1%EC%A4%80/Gold/1238.%E2%80%85%ED%8C%8C%ED%8B%B0) |
 | [1520-내리막 길](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1520.%E2%80%85%EB%82%B4%EB%A6%AC%EB%A7%89%E2%80%85%EA%B8%B8) |
 | [1644-소수의 연속합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1644.%E2%80%85%EC%86%8C%EC%88%98%EC%9D%98%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9) |
 | [1865-웜홀](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/1865.%E2%80%85%EC%9B%9C%ED%99%80) |
