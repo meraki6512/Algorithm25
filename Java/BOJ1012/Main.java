@@ -3,7 +3,6 @@ package Algorithm.Algorithm25.Java.BOJ1012;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 /**
@@ -20,8 +19,8 @@ import java.util.StringTokenizer;
 public class Main {
     private static int M, N, K;
     private static boolean[][] map, visited;
-    private static int[] dx = {-1, 1, 0, 0};
-    private static int[] dy = {0, 0, -1, 1};
+    private static final int[] dx = {-1, 1, 0, 0};
+    private static final int[] dy = {0, 0, -1, 1};
     
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
