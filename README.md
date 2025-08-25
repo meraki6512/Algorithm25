@@ -51,6 +51,7 @@
 ## Silver II
 |                                                                                                                                                                             |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [1012-유기농 배추](https://github.com/meraki6512/Algorithm25/tree/979efecd9055dd2d46884dfea087ca17fc4892c4/%EB%B0%B1%EC%A4%80/Silver/1012.%E2%80%85%EC%9C%A0%EA%B8%B0%EB%86%8D%E2%80%85%EB%B0%B0%EC%B6%94) |
 | [1138-한 줄로 서기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1138.%E2%80%85%ED%95%9C%E2%80%85%EC%A4%84%EB%A1%9C%E2%80%85%EC%84%9C%EA%B8%B0) |
 | [1182-부분수열의 합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1182.%E2%80%85%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9)                                                                                                                                                            |
 | [1260-DFS와 BFS](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS)                                       |
@@ -230,7 +231,6 @@
 |  |
 | ------- |
 | [30466-우정은 BFS처럼, 사랑은 DFS처럼](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Platinum/30466.%E2%80%85%EC%9A%B0%EC%A0%95%EC%9D%80%E2%80%85BFS%EC%B2%98%EB%9F%BC%EF%BC%8C%E2%80%85%EC%82%AC%EB%9E%91%EC%9D%80%E2%80%85DFS%EC%B2%98%EB%9F%BC) |
-</br>
 
 ---
 
