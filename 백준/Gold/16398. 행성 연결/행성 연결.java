@@ -6,10 +6,14 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 /**
+ * 16398. 행성 연결
+ * https://www.acmicpc.net/problem/16398
+ * 
  * 최소스패닝트리. 분할.
- * -> 다시 풀기, prim 으로도 구현해보기
+ * 1. 인접리스트 Prim (PQ)
+ * 2. 인접행렬 Prim (Arr)
+ * 3. Kruskal (PQ)
  */
-
 public class Main {
 
     private static class Edge implements Comparable<Edge> {
@@ -65,9 +69,9 @@ public class Main {
         // Sol
         // * 간선 E = n^2 = 1_000_000
         // 1. prim pq (인접 리스트) : ElogE = n^2logn ~~ 10_000_000
-        prim_pq();
+        // prim_pq();
         // 2. prim adj arr (인접 행렬) : n^2 ~~ 1_000_000 (10배 정도 빠름)
-        // prim();
+        prim();
         // 3. kruskal : ElogE = n^2logn ~~ 10_000_000
         // kruskal();
     }
