@@ -151,7 +151,7 @@
 | [14500-테트로미노](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/14500.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8) |
 | [14502-연구소](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/14502.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C) |
 | [15961-회전 초밥](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/15961.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EC%B4%88%EB%B0%A5) |
-| [16398-행성 연결](https://github.com/meraki6512/Algorithm25/tree/008f2aa63044d5d1acab24f7ab9460a2f5dc502e/%EB%B0%B1%EC%A4%80/Gold/16398.%E2%80%85%ED%96%89%EC%84%B1%E2%80%85%EC%97%B0%EA%B2%B0) |
+| [16398-행성 연결](https://github.com/meraki6512/Algorithm25/tree/ba15845227876c702e79a02c8f2f3b3c813711b5/%EB%B0%B1%EC%A4%80/Gold/16398.%E2%80%85%ED%96%89%EC%84%B1%E2%80%85%EC%97%B0%EA%B2%B0) |
 | [16562-친구비](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/16562.%E2%80%85%EC%B9%9C%EA%B5%AC%EB%B9%84)                                                                                                                                           |
 | [17255-N으로 만들기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17255.%E2%80%85N%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | [17298-오큰수](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17298.%E2%80%85%EC%98%A4%ED%81%B0%EC%88%98) |
