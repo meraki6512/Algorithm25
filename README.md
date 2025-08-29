@@ -264,6 +264,7 @@
 | [0134-gas-station](https://github.com/meraki6512/Algorithm25/tree/master/0134-gas-station) |
 | [0228-summary-ranges](https://github.com/meraki6512/Algorithm25/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/meraki6512/Algorithm25/tree/master/0238-product-of-array-except-self) |
+| [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/master/1706-min-cost-to-connect-all-points) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -338,4 +339,16 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/meraki6512/Algorithm25/tree/master/0383-ransom-note) |
+## Union Find
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/master/1706-min-cost-to-connect-all-points) |
+## Graph
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
