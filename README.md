@@ -124,10 +124,10 @@
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/1706-min-cost-to-connect-all-points) |
 ## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0175-combine-two-tables) |
-| [0181-employees-earning-more-than-their-managers](https://github.com/meraki6512/Algorithm25/tree/master/0181-employees-earning-more-than-their-managers) |
-| [0182-duplicate-emails](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0182-duplicate-emails)     |
-| [0183-customers-who-never-order](https://github.com/meraki6512/Algorithm25/tree/master/0183-customers-who-never-order) |
+|                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [0175-combine-two-tables](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0175-combine-two-tables)                                                 |
+| [0181-employees-earning-more-than-their-managers](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0182-duplicate-emails)                                                     |
+| [0183-customers-who-never-order](https://github.com/meraki6512/Algorithm25/tree/master/0183-customers-who-never-order)                                            |
 <!---LeetCode Topics End-->
