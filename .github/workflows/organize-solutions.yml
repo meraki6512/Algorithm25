@@ -14,20 +14,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # 전체 히스토리 접근을 위해 fetch-depth를 0으로 설정
 
       - name: Move LeetCode solutions if they exist
         id: move_leethub
         run: |
-          # 루트에 LeetCode 문제 폴더가 있는지 확인합니다.
+          # 루트에 LeetCode 문제 폴더가 있는지 확인
           if ls -d [0-9][0-9][0-9][0-9]-* &> /dev/null; then
             echo "✅ New LeetCode solution directories found. Moving them..."
             mkdir -p LeetCode
             for d in [0-9][0-9][0-9][0-9]-*; do
               if [ -d "$d" ]; then
-                # 가장 간단하고 확실한 방법으로 폴더를 LeetCode/ 안으로 이동시킵니다.
-                mv "$d" "LeetCode/"
-                echo "Moved '$d' into 'LeetCode/'."
+                # -v 옵션으로 이동 과정을 로그에 명확히 표시
+                mv -v "$d" "LeetCode/"
               fi
             done
           else
@@ -47,7 +46,8 @@ jobs:
       - name: Update README for Baekjoon if changed
         id: update_readme
         run: |
-          if git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep -q "백준/"; then
+          # 푸시 이벤트에 포함된 모든 커밋을 순회하며 '백준/' 폴더 변경 감지
+          if git log --name-only --pretty=format: ${{ github.event.before }}..${{ github.event.after }} | grep -q "백준/"; then
             echo "✅ Changes detected in '백준/' directory. Updating README..."
             python scripts/update_readme.py
           else
@@ -56,19 +56,23 @@ jobs:
 
       - name: Commit & Push changes if there are any
         run: |
+          # git status로 실제 파일 변경이 있는지 최종 확인
           if ! git diff --quiet HEAD; then
             git config --global user.name 'github-actions[bot]'
             git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-            git add LeetCode/ README.md
+            # ❗️ git add -A 로 변경하여 모든 변경사항(삭제 포함)을 추적
+            git add -A
             git commit -m "chore(auto): Organize solutions & update README" -m "LeetCode 폴더를 정리하고 백준 문제 목록을 업데이트합니다."
+          
+            # ❗️푸시 직전 pull --rebase를 실행하여 타이밍 문제(Race Condition) 해결
+            git pull --rebase
           
             echo "🚀 Pushing changes to repository..."
             git push
           else
             echo "✅ No changes to commit."
           fi
-
 
 ##name: Move LeetCode Solutions
 ##
