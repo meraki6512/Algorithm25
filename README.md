@@ -71,8 +71,8 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0035-search-insert-position) |
 ## Math
-|                                                                                                                 |
-|-----------------------------------------------------------------------------------------------------------------|
+|  |
+| ------- |
 | [0009-palindrome-number](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0070-climbing-stairs)       |
 ## Dynamic Programming
@@ -123,4 +123,8 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/1706-min-cost-to-connect-all-points) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/meraki6512/Algorithm25/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
