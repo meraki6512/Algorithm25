@@ -24,6 +24,7 @@
 ## Silver IV
 |  |
 | ------- |
+| [1158-요세푸스 문제](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1158.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C) |
 | [1269-대칭 차집합](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1269.%E2%80%85%EB%8C%80%EC%B9%AD%E2%80%85%EC%B0%A8%EC%A7%91%ED%95%A9) |
 | [1764-듣보잡](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1764.%E2%80%85%EB%93%A3%EB%B3%B4%EC%9E%A1) |
 | [1920-수 찾기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Silver/1920.%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0) |
@@ -105,6 +106,7 @@
 | [5904-Moo 게임](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/5904.%E2%80%85Moo%E2%80%85%EA%B2%8C%EC%9E%84) |
 | [7490-0 만들기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/7490.%E2%80%850%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)                                                                       |
 | [7576-토마토](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/7576.%E2%80%85%ED%86%A0%EB%A7%88%ED%86%A0)                                                                                   |
+| [7569-토마토](https://github.com/meraki6512/Algorithm25/tree/7ae44aa7780035de6d5f7bb0a51e2ff8e7bbbaa0/%EB%B0%B1%EC%A4%80/Gold/7569.%E2%80%85%ED%86%A0%EB%A7%88%ED%86%A0) |
 | [9251-LCS](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS)                                                                                                           |
 | [10026-적록색약](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/10026.%E2%80%85%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD)                                                                       |
 | [11729-하노이 탑 이동 순서](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/11729.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C) |
@@ -151,6 +153,7 @@
 | [14500-테트로미노](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/14500.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8) |
 | [14502-연구소](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/14502.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C) |
 | [15961-회전 초밥](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/15961.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EC%B4%88%EB%B0%A5) |
+| [16398-행성 연결](https://github.com/meraki6512/Algorithm25/tree/ba15845227876c702e79a02c8f2f3b3c813711b5/%EB%B0%B1%EC%A4%80/Gold/16398.%E2%80%85%ED%96%89%EC%84%B1%E2%80%85%EC%97%B0%EA%B2%B0) |
 | [16562-친구비](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/16562.%E2%80%85%EC%B9%9C%EA%B5%AC%EB%B9%84)                                                                                                                                           |
 | [17255-N으로 만들기](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17255.%E2%80%85N%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | [17298-오큰수](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17298.%E2%80%85%EC%98%A4%ED%81%B0%EC%88%98) |
@@ -219,6 +222,7 @@
 | [2263-트리의 순회](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/2263.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EC%88%9C%ED%9A%8C) |
 | [11689-GCD(n, k) = 1](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/11689.%E2%80%85GCD%EF%BC%88n%EF%BC%8C%E2%80%85k%EF%BC%89%E2%80%85%EF%BC%9D%E2%80%851) |
 | [17472-다리 만들기 2](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/17472.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852)                                                                                                                                              |
+| [13459-구슬 탈출](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/13459.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C) |
 | [28707-배열 정렬](https://github.com/meraki6512/Algorithm25/tree/main/%EB%B0%B1%EC%A4%80/Gold/28707.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%A0%95%EB%A0%AC) |
 ## Platinum V
 |                                                                                                                                                                                                                                                                                   |
@@ -254,84 +258,97 @@
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/meraki6512/Algorithm25/tree/master/0001-two-sum) |
-| [0035-search-insert-position](https://github.com/meraki6512/Algorithm25/tree/master/0035-search-insert-position) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meraki6512/Algorithm25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0134-gas-station](https://github.com/meraki6512/Algorithm25/tree/master/0134-gas-station) |
-| [0228-summary-ranges](https://github.com/meraki6512/Algorithm25/tree/master/0228-summary-ranges) |
-| [0238-product-of-array-except-self](https://github.com/meraki6512/Algorithm25/tree/master/0238-product-of-array-except-self) |
+| [0001-two-sum]() |
+| [0035-search-insert-position]() |
+| [0108-convert-sorted-array-to-binary-search-tree]() |
+| [0134-gas-station]() |
+| [0228-summary-ranges]() |
+| [0238-product-of-array-except-self]() |
+| [1706-min-cost-to-connect-all-points]() |
 ## Prefix Sum
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/meraki6512/Algorithm25/tree/master/0238-product-of-array-except-self) |
+| [0238-product-of-array-except-self]() |
 ## Two Pointers
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meraki6512/Algorithm25/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0125-valid-palindrome](https://github.com/meraki6512/Algorithm25/tree/master/0125-valid-palindrome) |
-| [0151-reverse-words-in-a-string](https://github.com/meraki6512/Algorithm25/tree/master/0151-reverse-words-in-a-string) |
-| [0392-is-subsequence](https://github.com/meraki6512/Algorithm25/tree/master/0392-is-subsequence) |
+|                                                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------|
+| [0028-find-the-index-of-the-first-occurrence-in-a-string]()                                                            |
+| [0125-valid-palindrome]()                   |
+| [0151-reverse-words-in-a-string]() |
+| [0392-is-subsequence]()                       |
 ## String
-|  |
-| ------- |
-| [0006-zigzag-conversion](https://github.com/meraki6512/Algorithm25/tree/master/0006-zigzag-conversion) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meraki6512/Algorithm25/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0125-valid-palindrome](https://github.com/meraki6512/Algorithm25/tree/master/0125-valid-palindrome) |
-| [0151-reverse-words-in-a-string](https://github.com/meraki6512/Algorithm25/tree/master/0151-reverse-words-in-a-string) |
-| [0205-isomorphic-strings](https://github.com/meraki6512/Algorithm25/tree/master/0205-isomorphic-strings) |
-| [0290-word-pattern](https://github.com/meraki6512/Algorithm25/tree/master/0290-word-pattern) |
-| [0383-ransom-note](https://github.com/meraki6512/Algorithm25/tree/master/0383-ransom-note) |
-| [0392-is-subsequence](https://github.com/meraki6512/Algorithm25/tree/master/0392-is-subsequence) |
+|                                                                                                  |
+|--------------------------------------------------------------------------------------------------|
+| [0006-zigzag-conversion]()                                                                       |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string]()                                      |
+| [0125-valid-palindrome]()                                                                        |
+| [0151-reverse-words-in-a-string]()                                                               |
+| [0205-isomorphic-strings]()                                                                      |
+| [0290-word-pattern]()                                                                            |
+| [0383-ransom-note]()                                                                             |
+| [0392-is-subsequence]() |
 ## String Matching
 |  |
 | ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meraki6512/Algorithm25/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string]() |
 ## Greedy
 |  |
 | ------- |
-| [0134-gas-station](https://github.com/meraki6512/Algorithm25/tree/master/0134-gas-station) |
+| [0134-gas-station]() |
 ## Binary Search
 |  |
 | ------- |
-| [0035-search-insert-position](https://github.com/meraki6512/Algorithm25/tree/master/0035-search-insert-position) |
+| [0035-search-insert-position]() |
 ## Math
 |  |
 | ------- |
-| [0070-climbing-stairs](https://github.com/meraki6512/Algorithm25/tree/master/0070-climbing-stairs) |
+| [0070-climbing-stairs]() |
 ## Dynamic Programming
 |  |
 | ------- |
-| [0070-climbing-stairs](https://github.com/meraki6512/Algorithm25/tree/master/0070-climbing-stairs) |
-| [0392-is-subsequence](https://github.com/meraki6512/Algorithm25/tree/master/0392-is-subsequence) |
+| [0070-climbing-stairs]() |
+| [0392-is-subsequence]() |
 ## Memoization
 |  |
 | ------- |
-| [0070-climbing-stairs](https://github.com/meraki6512/Algorithm25/tree/master/0070-climbing-stairs) |
+| [0070-climbing-stairs]() |
 ## Divide and Conquer
-|  |
-| ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meraki6512/Algorithm25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+|                                                      |
+|------------------------------------------------------|
+| [0108-convert-sorted-array-to-binary-search-tree]()  |
 ## Tree
-|  |
-| ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meraki6512/Algorithm25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+|                                                      |
+|------------------------------------------------------|
+| [0108-convert-sorted-array-to-binary-search-tree]()  |
 ## Binary Search Tree
 |  |
 | ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meraki6512/Algorithm25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree]() |
 ## Binary Tree
 |  |
 | ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meraki6512/Algorithm25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree]() |
 ## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/meraki6512/Algorithm25/tree/master/0001-two-sum) |
-| [0205-isomorphic-strings](https://github.com/meraki6512/Algorithm25/tree/master/0205-isomorphic-strings) |
-| [0290-word-pattern](https://github.com/meraki6512/Algorithm25/tree/master/0290-word-pattern) |
-| [0383-ransom-note](https://github.com/meraki6512/Algorithm25/tree/master/0383-ransom-note) |
+|                             |
+|-----------------------------|
+| [0001-two-sum]()            |
+| [0205-isomorphic-strings]() |
+| [0290-word-pattern]()       |
+| [0383-ransom-note]()        |
 ## Counting
+|                       |
+|-----------------------|
+| [0383-ransom-note]()  |
+## Union Find
+|                                          |
+|------------------------------------------|
+| [1706-min-cost-to-connect-all-points]()  |
+## Graph
 |  |
 | ------- |
-| [0383-ransom-note](https://github.com/meraki6512/Algorithm25/tree/master/0383-ransom-note) |
+| [1706-min-cost-to-connect-all-points]() |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points]() |
 <!---LeetCode Topics End-->
