@@ -302,10 +302,10 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0035-search-insert-position) |
 ## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/meraki6512/Algorithm25/tree/master/0009-palindrome-number) |
-| [0070-climbing-stairs](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0070-climbing-stairs) |
+|                                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------------|
+| [0009-palindrome-number](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0070-climbing-stairs)       |
 ## Dynamic Programming
 |  |
 | ------- |

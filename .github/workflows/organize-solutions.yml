@@ -1,0 +1,133 @@
+name: Organize Algorithm Solutions
+
+on:
+  workflow_dispatch: # 수동 실행
+  push:
+    paths:
+      - '[0-9][0-9][0-9][0-9]-*/**'  # LeetCode 폴더 패턴
+      - '백준/**'                    # 백준 폴더 변경 감지
+
+jobs:
+  organize-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          # 커밋 기록 비교를 위해 fetch-depth를 0으로 설정하여 전체 히스토리를 가져옵니다.
+          fetch-depth: 0
+
+      - name: Move LeetCode solutions
+        id: move_leethub
+        run: |
+          mkdir -p LeetCode
+          found=false
+          for d in [0-9][0-9][0-9][0-9]-*; do
+            if [ -d "$d" ]; then
+              echo "Moving LeetCode directory: $d"
+              # 중복 폴더가 있을 경우를 대비하여 -n 옵션 사용
+              mv -n "$d" "LeetCode/"
+              found=true
+            fi
+          done
+          if $found; then
+            echo "✅ LeetCode directories moved."
+          else
+            echo "ℹ️ No new LeetCode directories to move."
+          fi
+          # 변경 여부를 다음 스텝에 전달
+          echo "leethub_changed=$found" >> $GITHUB_OUTPUT
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Update README for Baekjoon
+        id: update_readme
+        run: |
+          # 이번 푸시에서 '백준/' 폴더에 변경이 있었는지 확인
+          if git diff --name-only HEAD~1 HEAD | grep -q "백준/"; then
+            echo "Changes detected in '백준/' directory. Updating README..."
+            python scripts/update_readme.py
+          else
+            echo "ℹ️ No changes in '백준/' directory. Skipping README update."
+          fi
+
+      - name: Commit & Push changes
+        run: |
+          # git status로 실제 파일 변경이 있는지 최종 확인
+          if ! git diff --quiet; then
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+            git add LeetCode/ README.md
+            git commit -m "chore(auto): Organize solutions & update README" -m "LeetCode 폴더를 정리하고 백준 문제 목록을 업데이트합니다."
+          
+            echo "🚀 Pushing changes to repository..."
+            git push
+          else
+            echo "✅ No changes to commit."
+          fi
+
+
+#name: Move LeetCode Solutions
+#
+#on:
+#  workflow_dispatch:  # 수동 실행 옵션 유지
+#  push:
+#    paths:
+#      - '[0-9][0-9][0-9][0-9]-*/**'  # LeetHub가 생성하는 폴더 패턴 (예: 0020-valid-parentheses)
+#
+#jobs:
+#  move-files:
+#    runs-on: ubuntu-latest
+#    permissions:
+#      contents: write
+#    steps:
+#      - name: Checkout repository
+#        uses: actions/checkout@v3
+#        with:
+#          fetch-depth: 2  # 최근 커밋 기록을 가져오기 위해 설정
+#
+#      - name: Move LeetCode solutions
+#        run: |
+#          # 디버깅을 위한 현재 디렉토리 내용 출력
+#          echo "Current directory contents:"
+#          ls -la
+#
+#          # LeetCode 폴더가 없다면 생성
+#          mkdir -p LeetCode
+#
+#          # 변경된 파일 목록 확인
+#          echo "Changed files in this push:"
+#          git diff --name-only HEAD^ HEAD
+#
+#          # LeetHub가 생성한 폴더들을 LeetCode 폴더로 이동
+#          found=0
+#          for d in [0-9][0-9][0-9][0-9]-*; do
+#            if [ -d "$d" ]; then
+#              echo "Moving directory: $d"
+#              mv "$d" "LeetCode/" && found=1
+#            fi
+#          done
+#
+#          # 이동할 폴더를 찾지 못했을 경우에도 오류로 처리하지 않음
+#          if [ $found -eq 0 ]; then
+#            echo "No matching directories found to move"
+#          fi
+#
+#      - name: Commit & Push changes
+#        run: |
+#          # 변경사항이 있는지 확인
+#          if git status --porcelain | grep .; then
+#            git config --global user.name 'github-actions[bot]'
+#            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+#            git add -A
+#            git commit -m "chore: Move LeetCode solutions to LeetCode folder"
+#            git push
+#          else
+#            echo "No changes to commit"
+#          fi
