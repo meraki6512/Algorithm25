@@ -4,8 +4,13 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.PriorityQueue;
-import java.util.TreeMap;
-import java.util.TreeSet;
+
+/**
+ * 최소 힙
+ * 연산의 개수 N: 100_000
+ * x == 0이면 배열에서 가장 작은 값 출력하고 제거
+ * 자연수면 배열에 값 추가
+ */
 
 public class Main {
     public static void main(String[] args) throws IOException {
