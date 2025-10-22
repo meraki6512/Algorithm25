@@ -10,17 +10,6 @@
 ---
 
 # Programmers challenges
-## Lv2
-|  |
-| ------- |
-| [17686-(3차) 파일명 정렬](https://github.com/meraki6512/Algorithm25/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/17686.%E2%80%85%EF%BC%BB3%EC%B0%A8%EF%BC%BD%E2%80%85%ED%8C%8C%EC%9D%BC%EB%AA%85%E2%80%85%EC%A0%95%EB%A0%AC) |
-| [42747-H-Index](https://github.com/meraki6512/Algorithm25/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/42747.%E2%80%85H%EF%BC%8DIndex) |
-## Lv3
-|  |
-| ------- |
-| [92343-양과 늑대](https://github.com/meraki6512/Algorithm25/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/92343.%E2%80%85%EC%96%91%EA%B3%BC%E2%80%85%EB%8A%91%EB%8C%80) |
-
-</br>
 
 ---
 
