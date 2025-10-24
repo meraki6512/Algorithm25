@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-class Solution {
+class 가장많이받은선물 {
 
 	public int solution(String[] friends, String[] gifts) {
 		int answer = 0;

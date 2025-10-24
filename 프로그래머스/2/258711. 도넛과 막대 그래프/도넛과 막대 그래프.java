@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class 도넛과막대그래프 {
 
 	/**
 	 * 1. 임의의 정점 v: 들어오는 간선이 0이고 나가는 간선만 2개 이상인 노드

@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.stream.Collectors;
 
-class Solution {
+class 두큐합같게만들기 {
 
 	public int solution(int[] queue1, int[] queue2) {
 		int answer = 0;

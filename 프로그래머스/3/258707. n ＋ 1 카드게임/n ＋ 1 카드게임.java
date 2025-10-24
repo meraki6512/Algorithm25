@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-class Solution {
+class N플러스1카드게임 {
 	public int solution(int coin, int[] cards) {
 		int n = cards.length;
 		int round = 1;

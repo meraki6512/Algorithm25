@@ -9,7 +9,7 @@ import java.util.Arrays;
  * 10000개의 숫자에 대해
  * 10^15 (...= 2^45~47) -> 45~47회의 탐색
  */
-class Solution {
+class 표현가능한이진트리 {
 	public int[] solution(long[] numbers) {
 		int[] answer = new int[numbers.length];
 
