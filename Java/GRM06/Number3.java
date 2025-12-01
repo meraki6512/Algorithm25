@@ -1,4 +1,4 @@
-package Algorithm.Algorithm25.Java.GoormTestJune;
+package Algorithm.Algorithm25.Java.GRM06;
 
 import java.io.*;
 import java.util.*;
