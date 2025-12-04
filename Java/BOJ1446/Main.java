@@ -1,9 +1,9 @@
+package Algorithm.Algorithm25.Java.BOJ1446;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 import java.math.*;
 
