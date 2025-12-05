@@ -21,11 +21,11 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         // O(N^3): O(10^6)
-        solve_floyd();
+        // solve_floyd();
 
         // dijkstra 1회 실행 비용: O((V+E) log V)
         // O(N * ((N+R) log N)): O(10^4)
-        // solve_dijkstra();
+        solve_dijkstra();
     }
 
     /**
