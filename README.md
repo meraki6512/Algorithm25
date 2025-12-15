@@ -22,8 +22,10 @@
 | [0035-search-insert-position](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0134-gas-station) |
+| [0198-house-robber](https://github.com/meraki6512/Algorithm25/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0238-product-of-array-except-self) |
+| [0740-delete-and-earn](https://github.com/meraki6512/Algorithm25/tree/master/0740-delete-and-earn) |
 | [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/1706-min-cost-to-connect-all-points) |
 ## Prefix Sum
 |  |
@@ -62,17 +64,27 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/meraki6512/Algorithm25/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/meraki6512/Algorithm25/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0070-climbing-stairs)       |
+| [0279-perfect-squares](https://github.com/meraki6512/Algorithm25/tree/master/0279-perfect-squares) |
+| [0509-fibonacci-number](https://github.com/meraki6512/Algorithm25/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/meraki6512/Algorithm25/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/meraki6512/Algorithm25/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/meraki6512/Algorithm25/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/meraki6512/Algorithm25/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/meraki6512/Algorithm25/tree/master/0740-delete-and-earn) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/meraki6512/Algorithm25/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +108,7 @@
 | [0205-isomorphic-strings](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0290-word-pattern)       |
 | [0383-ransom-note](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0383-ransom-note)        |
+| [0740-delete-and-earn](https://github.com/meraki6512/Algorithm25/tree/master/0740-delete-and-earn) |
 ## Counting
 |  |
 | ------- |
@@ -113,10 +126,27 @@
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/1706-min-cost-to-connect-all-points) |
 ## Database
-|                                                                                                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0175-combine-two-tables)                                                 |
 | [0181-employees-earning-more-than-their-managers](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0182-duplicate-emails)                                                     |
 | [0183-customers-who-never-order](https://github.com/meraki6512/Algorithm25/tree/master/0183-customers-who-never-order)                                            |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/meraki6512/Algorithm25/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/meraki6512/Algorithm25/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/meraki6512/Algorithm25/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/meraki6512/Algorithm25/tree/master/0279-perfect-squares) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/meraki6512/Algorithm25/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
