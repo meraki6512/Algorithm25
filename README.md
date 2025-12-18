@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0238-product-of-array-except-self) |
 | [0740-delete-and-earn](https://github.com/meraki6512/Algorithm25/tree/master/0740-delete-and-earn) |
 | [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/1706-min-cost-to-connect-all-points) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/meraki6512/Algorithm25/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0035-search-insert-position) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/meraki6512/Algorithm25/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Math
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/meraki6512/Algorithm25/tree/master/0002-add-two-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/meraki6512/Algorithm25/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
