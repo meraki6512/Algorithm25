@@ -8,6 +8,10 @@ import java.util.*;
 /**
  * <a href="https://www.acmicpc.net/problem/2887">2887. 행성 터널</a>
  * 추후 다시 풀기
+ *
+ * 모든 행성 사이에 간선을 만들어주면 O(N^2)로 시간 초과. N(N-1)/2개의 간선 저장해야하므로 메모리 초과.
+ * 3*(N-1)개의 간선만 봐도 MST를 항상 만들 수 있음.
+ * 축을 분리해서 보기.
  */
 public class Main {
 
