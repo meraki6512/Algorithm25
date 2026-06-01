@@ -15,7 +15,9 @@ class Solution {
     private void dfs(int idx, int sum) {
         
         if (idx == numbers.length) {
-            if (sum == target) answer ++;
+            if (sum == target) {
+                answer ++;
+            }
             return;
         }
         
